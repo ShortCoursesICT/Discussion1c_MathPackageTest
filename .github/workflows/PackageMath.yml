@@ -1,8 +1,8 @@
-name: Activity 2
+name: Package Math
 
 on:
   push:
-    branch: [main]
+    branches: [main]
 
 jobs:
   build:
